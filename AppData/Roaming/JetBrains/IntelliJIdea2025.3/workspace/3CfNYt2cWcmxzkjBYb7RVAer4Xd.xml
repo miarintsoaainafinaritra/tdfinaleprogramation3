@@ -1,0 +1,678 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="TDFINALEPROG3" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="181sybumimle3">
+      <file>
+        <entry file="file://$PROJECT_DIR$/README.md" file-id="402840" managing-fs="1774597366609">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"README.md","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,96,10,24,105,99,111,110,115,47,77,97,114,107,100,111,119,110,80,108,117,103,105,110,46,115,118,103,18,24,105,99,111,110,115,47,101,120,112,117,105,47,109,97,114,107,100,111,119,110,46,115,118,103,26,29,111,114,103,46,105,110,116,101,108,108,105,106,46,112,108,117,103,105,110,115,46,109,97,114,107,100,111,119,110,40,-33,-55,-17,-63,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/controller/FederationController.java" file-id="402874" managing-fs="1774597366609">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"FederationController.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/model/Activite.java" file-id="402871" managing-fs="1774597366609">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Activite.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/model/Collectivite.java" file-id="402869" managing-fs="1774597366609">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Collectivite.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/model/Compte.java" file-id="402872" managing-fs="1774597366609">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Compte.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/model/Cotisation.java" file-id="402868" managing-fs="1774597366609">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Cotisation.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/model/Membre.java" file-id="402870" managing-fs="1774597366609">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Membre.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/repository/FederationRepository.java" file-id="402875" managing-fs="1774597366609">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-103">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"FederationRepository.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/service/FederationService.java" file-id="402873" managing-fs="1774597366609">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="287">
+              <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"FederationService.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/openapi.yaml" file-id="402867" managing-fs="1774597366609">
+          <provider editor-type-id="intellij.swagger.ui.editor.with.preview" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"openapi.yaml","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,87,10,25,119,101,98,114,101,102,101,114,101,110,99,101,115,47,111,112,101,110,97,112,105,46,115,118,103,18,31,101,120,112,117,105,47,119,101,98,82,101,102,101,114,101,110,99,101,115,47,111,112,101,110,65,112,105,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-2,-113,-13,-70,-5,-1,-1,-1,-1,1,48,2]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/TdfinaleApplication.java" file-id="402862" managing-fs="1774597366609">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="110">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"TdfinaleApplication.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 9,
+      "lastUsed": 1776772842670
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1776772717091
+    },
+    "YAML": {
+      "usageCount": 1,
+      "lastUsed": 1776772777428
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory"><![CDATA[{}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="9" lastUsage="1776772842670" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1776772717092" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="1" lastUsage="1776772777428" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TDFINALEPROG3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDFINALEPROG3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDFINALEPROG3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDFINALEPROG3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDFINALEPROG3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDFINALEPROG3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java/com/federation/tdfinale}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDFINALEPROG3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java/com/federation/tdfinale}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java/com/federation/tdfinale/controller}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDFINALEPROG3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java/com/federation/tdfinale}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java/com/federation/tdfinale/model}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDFINALEPROG3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java/com/federation/tdfinale}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java/com/federation/tdfinale/repository}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDFINALEPROG3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java/com/federation/tdfinale}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java/com/federation/tdfinale/service}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="TDFINALEPROG3" />
+            <item name="TDFINALEPROG3" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="TDFINALEPROG3" />
+              <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tdfinale" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="tdfinale" />
+                <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/tdfinale/.mvn" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".mvn" />
+                  <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/.mvn}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                  <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/main" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="main" />
+                    <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/main/java" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="java" />
+                      <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="com.federation.tdfinale" />
+                        <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java/com/federation/tdfinale}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/controller" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="controller" />
+                          <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java/com/federation/tdfinale/controller}" type="462c0819:PsiDirectoryNode" />
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/controller/FederationController.java" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="FederationController" />
+                            <item name="FederationController" type="1a9f42e2:ClassTreeNode" />
+                          </presentation>
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/model" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="model" />
+                          <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java/com/federation/tdfinale/model}" type="462c0819:PsiDirectoryNode" />
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/model/Activite.java" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Activite" />
+                            <item name="Activite" type="1a9f42e2:ClassTreeNode" />
+                          </presentation>
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/model/Collectivite.java" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Collectivite" />
+                            <item name="Collectivite" type="1a9f42e2:ClassTreeNode" />
+                          </presentation>
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/model/Compte.java" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Compte" />
+                            <item name="Compte" type="1a9f42e2:ClassTreeNode" />
+                          </presentation>
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/model/Cotisation.java" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Cotisation" />
+                            <item name="Cotisation" type="1a9f42e2:ClassTreeNode" />
+                          </presentation>
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/model/Membre.java" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Membre" />
+                            <item name="Membre" type="1a9f42e2:ClassTreeNode" />
+                          </presentation>
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/repository" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="repository" />
+                          <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java/com/federation/tdfinale/repository}" type="462c0819:PsiDirectoryNode" />
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/repository/FederationRepository.java" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="FederationRepository" />
+                            <item name="FederationRepository" type="1a9f42e2:ClassTreeNode" />
+                          </presentation>
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/service" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="service" />
+                          <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/java/com/federation/tdfinale/service}" type="462c0819:PsiDirectoryNode" />
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/service/FederationService.java" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="FederationService" />
+                            <item name="FederationService" type="1a9f42e2:ClassTreeNode" />
+                          </presentation>
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/openapi.yaml" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/webReferences/openApi.svg" iconPlugin="com.intellij" isLeaf="true" text="openapi.yaml" />
+                          <item name="openapi.yaml" type="ab9368bb:PsiFileNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/TdfinaleApplication.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="TdfinaleApplication" />
+                          <item name="TdfinaleApplication" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/main/resources" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="resources" />
+                      <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/tdfinale/src/test" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
+                    <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/src/test}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/tdfinale/target" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="target" />
+                  <item name="dir{file://C:/Users/ASUS/TDFINALEPROG3/tdfinale/target}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/tdfinale/.gitattributes" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitattributes" />
+                  <item name=".gitattributes" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/tdfinale/.gitignore" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                  <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/tdfinale/mvnw" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="mvnw" />
+                  <item name="mvnw" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/tdfinale/mvnw.cmd" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="mvnw.cmd" />
+                  <item name="mvnw.cmd" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/tdfinale/pom.xml" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/maven.svg" iconPlugin="com.intellij.java" isLeaf="true" text="pom.xml" />
+                  <item name="pom.xml" type="d371aba8:MavenTreeStructureProvider$MavenPomFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package-lock.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="package-lock.json" />
+                <item name="package-lock.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="QueryFileSettings">
+    <option name="projectQueriesDirectory" value="C:\Users\ASUS\TDFINALEPROG3\.idea\queries" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32996082" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.33028084" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" />
+      <window_info anchor="bottom" id="PythonProcessOutput" order="6" />
+      <window_info anchor="bottom" id="GitHub Copilot MCP Log" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Python Console" order="5" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="6" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="7" />
+      <window_info anchor="right" id="GitHub Coding Agent Jobs" order="8" />
+      <window_info anchor="right" id="EasyCode" order="9" />
+      <unified_weights bottom="0.33028084" left="0.32996082" />
+    </layoutV2>
+    <recentWindows>
+      <value>Problems View</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/model/Activite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/model/Compte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/openapi.yaml">
+      <provider selected="true" editor-type-id="intellij.swagger.ui.editor.with.preview" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/TdfinaleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/model/Membre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/model/Cotisation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/model/Collectivite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/controller/FederationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/repository/FederationRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tdfinale/src/main/java/com/federation/tdfinale/service/FederationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
